@@ -6,4 +6,13 @@ Void main()
 {
 	a = "red"
 	b = "blue"
+	c = "brown"
+}
+
+Void login_screen()
+{
+	khakis	
+	Kjhkjsd	
+	jaj
+	kkjh
 }
