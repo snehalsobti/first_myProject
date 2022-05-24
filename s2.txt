@@ -1,0 +1,8 @@
+//Just created
+
+Int f1()
+{
+	return 0;
+}
+
+

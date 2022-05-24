@@ -1,2 +1,9 @@
+/*
 Created by Rajeev.
-A few lines only
+A few lines only.
+*/
+Void main()
+{
+	a = "red"
+	b = "blue"
+}
